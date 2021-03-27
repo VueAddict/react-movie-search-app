@@ -1,1 +1,2 @@
-//api key https://api.themoviedb.org/3/movie/550?api_key=6276b4b596f0f967e3424fa0ea0666ab
+# movie search application with react js and tmdb api
+## [live demo](https://react-movie-app-jdan1.netlify.app/)
